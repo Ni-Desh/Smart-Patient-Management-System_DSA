@@ -1,1 +1,2 @@
 # Smart-Patient-Management-System_DSA
+This C project is a Smart Patient Management System that uses linked lists to manage dynamic records of doctors, patients, appointments, and emergencies. A 2D array stores each doctor’s weekly schedule, while a queue (implemented via linked list) handles emergency cases. The system supports adding, deleting, and viewing doctors and patients, booking appointments, and managing emergency queues—all through a console-based interface.
